@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "ApiVersioningTask.Controllers.ProductsV1Controller",
+    "Method": "GetProducts",
+    "RelativePath": "api/v1/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiVersioningTask.Controllers.ProductsV2Controller",
+    "Method": "GetProducts",
+    "RelativePath": "api/v2/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
